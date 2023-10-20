@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TextEditor</string>
+    <string name="default_filename">contentFile.txt</string>
 </resources>
